@@ -1,0 +1,5 @@
+package com.raphael.bookstore.services.exceptions;
+
+public class DataIntegrityViolationException {
+
+}
