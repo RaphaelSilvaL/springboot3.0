@@ -1,0 +1,5 @@
+package com.raphael.bookstore.resource.exceptions;
+
+public class FieldMessage {
+
+}

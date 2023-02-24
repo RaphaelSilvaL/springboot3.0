@@ -258,3 +258,35 @@
 2023-02-22 15:55:28,637 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
 2023-02-22 15:55:28,653 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\raphael.silva\git\bookstore-apiii\src\test\resources
 2023-02-22 15:55:32,703 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-02-22 15:55:32,721 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\raphael.silva\git\bookstore-apiii\src\test\resources
+2023-02-22 16:32:12,285 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-02-22 16:32:12,446 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\raphael.silva\git\bookstore-apiii\src\test\resources
+2023-02-24 11:04:50,099 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-02-24 11:05:27,340 [Worker-9: Launching bookstore-apiii - BookstoreApplication] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.32 has been relocated to com.mysql:mysql-connector-j:jar:8.0.32: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2023-02-24 12:05:39,208 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\raphael.silva\git\bookstore-apiii\src\test\resources
+2023-02-24 12:06:52,739 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-02-24 12:06:52,831 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\raphael.silva\git\bookstore-apiii\src\test\resources
+2023-02-24 12:06:55,674 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-02-24 12:06:55,691 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\raphael.silva\git\bookstore-apiii\src\test\resources
+2023-02-24 12:08:49,640 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-02-24 12:08:49,654 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\raphael.silva\git\bookstore-apiii\src\test\resources
+2023-02-24 12:09:56,161 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-02-24 12:09:56,178 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\raphael.silva\git\bookstore-apiii\src\test\resources
+2023-02-24 12:13:11,740 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-02-24 12:13:11,807 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\raphael.silva\git\bookstore-apiii\src\test\resources
+2023-02-24 12:15:28,537 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-02-24 12:15:28,592 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\raphael.silva\git\bookstore-apiii\src\test\resources
+2023-02-24 12:16:01,058 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-02-24 12:16:01,176 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\raphael.silva\git\bookstore-apiii\src\test\resources
+2023-02-24 12:34:16,561 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-02-24 12:34:16,622 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\raphael.silva\git\bookstore-apiii\src\test\resources
+2023-02-24 13:04:42,690 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-02-24 13:04:42,806 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\raphael.silva\git\bookstore-apiii\src\test\resources
+2023-02-24 13:09:41,322 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-02-24 13:09:41,349 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\raphael.silva\git\bookstore-apiii\src\test\resources
+2023-02-24 13:11:54,402 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-02-24 13:11:54,421 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\raphael.silva\git\bookstore-apiii\src\test\resources
+2023-02-24 13:12:01,630 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-02-24 13:12:01,644 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\raphael.silva\git\bookstore-apiii\src\test\resources
+2023-02-24 13:12:59,635 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-02-24 13:12:59,664 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\raphael.silva\git\bookstore-apiii\src\test\resources
